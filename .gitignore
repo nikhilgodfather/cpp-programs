@@ -1,0 +1,10 @@
+*.exe
+*.o
+*.obj
+*.pdb
+__pycache__/
+student_*.txt
+school_*.txt
+/tools
+README.md
+VERIFICATION.md
